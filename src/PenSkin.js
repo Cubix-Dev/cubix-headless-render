@@ -1,4 +1,4 @@
-const twgl = require('twgl.js');
+const twgl = require('./twgl/twgl');
 
 const RenderConstants = require('./RenderConstants');
 const Skin = require('./Skin');

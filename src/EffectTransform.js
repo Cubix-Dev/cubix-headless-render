@@ -4,7 +4,7 @@
  * representing how the shaders apply effects.
  */
 
-const twgl = require('twgl.js');
+const twgl = require('./twgl/twgl');
 
 const {rgbToHsv, hsvToRgb} = require('./util/color-conversions');
 const ShaderManager = require('./ShaderManager');

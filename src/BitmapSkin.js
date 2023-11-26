@@ -1,4 +1,4 @@
-const twgl = require('twgl.js');
+import twgl from './twgl/twgl';
 
 const Skin = require('./Skin');
 

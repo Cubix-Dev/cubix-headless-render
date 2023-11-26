@@ -1,7 +1,7 @@
 const EventEmitter = require('events');
 
 const hull = require('hull.js');
-const twgl = require('twgl.js');
+const twgl = require('./twgl/twgl');
 
 const Skin = require('./Skin');
 const BitmapSkin = require('./BitmapSkin');

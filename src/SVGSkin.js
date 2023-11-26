@@ -1,4 +1,4 @@
-const twgl = require('twgl.js');
+const twgl = require('./twgl/twgl');
 
 const Skin = require('./Skin');
 const {loadSvgString, serializeSvgToString} = require('scratch-svg-renderer');

@@ -1,4 +1,4 @@
-const twgl = require('twgl.js');
+const twgl = require('./twgl/twgl');
 
 const CanvasMeasurementProvider = require('./util/canvas-measurement-provider');
 const Skin = require('./Skin');

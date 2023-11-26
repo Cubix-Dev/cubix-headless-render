@@ -1,4 +1,4 @@
-const twgl = require('twgl.js');
+import twgl from './twgl/twgl';
 
 const Rectangle = require('./Rectangle');
 const RenderConstants = require('./RenderConstants');
